@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="320" viewBox="0 0 600 320" role="img" aria-label="Animated warming stripes, climate-kernel-emulator">
+<title>climate-kernel-emulator · illustrative warming stripes</title><defs>
+<clipPath id="c"><rect width="600" height="320" rx="16"/></clipPath>
+<clipPath id="rev"><rect x="24" y="80" width="552" height="190"><animate attributeName="width" values="0;552;552" keyTimes="0;.55;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
+</defs><style>
+.ln{fill:none;stroke:#f8fafc;stroke-width:2.5;stroke-linejoin:round;stroke-dasharray:100;stroke-dashoffset:0;animation:dr 9s linear infinite}
+@keyframes dr{0%{stroke-dashoffset:100}55%,90%{stroke-dashoffset:0}100%{stroke-dashoffset:0;opacity:0}}
+.k{animation:pk 2.4s ease-in-out infinite}@keyframes pk{0%,100%{opacity:.35}50%{opacity:1}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.ln{stroke-dashoffset:0}}
+</style><g clip-path="url(#c)">
+<rect width="600" height="320" fill="#0b1a2e"/>
+<rect x="24" y="80" width="552" height="190" fill="#0f2238"/>
+<g clip-path="url(#rev)">
+<rect x="24.00" y="80" width="9.70" height="190" fill="#0d3d7a"/>
+<rect x="33.20" y="80" width="9.70" height="190" fill="#1c64a6"/>
+<rect x="42.40" y="80" width="9.70" height="190" fill="#155494"/>
+<rect x="51.60" y="80" width="9.70" height="190" fill="#1c65a8"/>
+<rect x="60.80" y="80" width="9.70" height="190" fill="#1a5fa1"/>
+<rect x="70.00" y="80" width="9.70" height="190" fill="#124b8a"/>
+<rect x="79.20" y="80" width="9.70" height="190" fill="#0d3e7b"/>
+<rect x="88.40" y="80" width="9.70" height="190" fill="#2271b5"/>
+<rect x="97.60" y="80" width="9.70" height="190" fill="#0f4481"/>
+<rect x="106.80" y="80" width="9.70" height="190" fill="#175899"/>
+<rect x="116.00" y="80" width="9.70" height="190" fill="#155291"/>
+<rect x="125.20" y="80" width="9.70" height="190" fill="#14508f"/>
+<rect x="134.40" y="80" width="9.70" height="190" fill="#1e6aad"/>
+<rect x="143.60" y="80" width="9.70" height="190" fill="#498bc3"/>
+<rect x="152.80" y="80" width="9.70" height="190" fill="#145191"/>
+<rect x="162.00" y="80" width="9.70" height="190" fill="#1e69ac"/>
+<rect x="171.20" y="80" width="9.70" height="190" fill="#165697"/>
+<rect x="180.40" y="80" width="9.70" height="190" fill="#1d67a9"/>
+<rect x="189.60" y="80" width="9.70" height="190" fill="#1a5fa1"/>
+<rect x="198.80" y="80" width="9.70" height="190" fill="#165494"/>
+<rect x="208.00" y="80" width="9.70" height="190" fill="#165696"/>
+<rect x="217.20" y="80" width="9.70" height="190" fill="#185a9b"/>
+<rect x="226.40" y="80" width="9.70" height="190" fill="#82afd7"/>
+<rect x="235.60" y="80" width="9.70" height="190" fill="#2070b3"/>
+<rect x="244.80" y="80" width="9.70" height="190" fill="#1b62a4"/>
+<rect x="254.00" y="80" width="9.70" height="190" fill="#a6c7e3"/>
+<rect x="263.20" y="80" width="9.70" height="190" fill="#ccdff0"/>
+<rect x="272.40" y="80" width="9.70" height="190" fill="#4387c0"/>
+<rect x="281.60" y="80" width="9.70" height="190" fill="#1e69ac"/>
+<rect x="290.80" y="80" width="9.70" height="190" fill="#206fb3"/>
+<rect x="300.00" y="80" width="9.70" height="190" fill="#1f6cb0"/>
+<rect x="309.20" y="80" width="9.70" height="190" fill="#629bcc"/>
+<rect x="318.40" y="80" width="9.70" height="190" fill="#2e79b9"/>
+<rect x="327.60" y="80" width="9.70" height="190" fill="#699fce"/>
+<rect x="336.80" y="80" width="9.70" height="190" fill="#80aed6"/>
+<rect x="346.00" y="80" width="9.70" height="190" fill="#dfe2eb"/>
+<rect x="355.20" y="80" width="9.70" height="190" fill="#f09989"/>
+<rect x="364.40" y="80" width="9.70" height="190" fill="#eda599"/>
+<rect x="373.60" y="80" width="9.70" height="190" fill="#e2d6db"/>
+<rect x="382.80" y="80" width="9.70" height="190" fill="#e5c7c7"/>
+<rect x="392.00" y="80" width="9.70" height="190" fill="#eea397"/>
+<rect x="401.20" y="80" width="9.70" height="190" fill="#ebafa7"/>
+<rect x="410.40" y="80" width="9.70" height="190" fill="#eda69b"/>
+<rect x="419.60" y="80" width="9.70" height="190" fill="#e5cacb"/>
+<rect x="428.80" y="80" width="9.70" height="190" fill="#f2907d"/>
+<rect x="438.00" y="80" width="9.70" height="190" fill="#e64736"/>
+<rect x="447.20" y="80" width="9.70" height="190" fill="#f38974"/>
+<rect x="456.40" y="80" width="9.70" height="190" fill="#f0573f"/>
+<rect x="465.60" y="80" width="9.70" height="190" fill="#e84938"/>
+<rect x="474.80" y="80" width="9.70" height="190" fill="#dc352d"/>
+<rect x="484.00" y="80" width="9.70" height="190" fill="#ef553f"/>
+<rect x="493.20" y="80" width="9.70" height="190" fill="#e94c39"/>
+<rect x="502.40" y="80" width="9.70" height="190" fill="#e64636"/>
+<rect x="511.60" y="80" width="9.70" height="190" fill="#dd362d"/>
+<rect x="520.80" y="80" width="9.70" height="190" fill="#d72d28"/>
+<rect x="530.00" y="80" width="9.70" height="190" fill="#ac1018"/>
+<rect x="539.20" y="80" width="9.70" height="190" fill="#aa1017"/>
+<rect x="548.40" y="80" width="9.70" height="190" fill="#9a0c15"/>
+<rect x="557.60" y="80" width="9.70" height="190" fill="#d52926"/>
+<rect x="566.80" y="80" width="9.70" height="190" fill="#d02021"/>
+</g>
+<polyline class="ln" pathLength="100" points="28.6,241.3 37.8,215.8 47.0,226.3 56.2,214.9 65.4,218.7 74.6,231.9 83.8,240.5 93.0,207.3 102.2,236.8 111.4,223.4 120.6,227.7 129.8,228.8 139.0,211.6 148.2,202.0 157.4,227.9 166.6,212.2 175.8,224.5 185.0,213.9 194.2,218.8 203.4,226.1 212.6,225.0 221.8,221.9 231.0,194.4 240.2,208.1 249.4,216.9 258.6,189.5 267.8,184.3 277.0,202.9 286.2,212.5 295.4,208.5 304.6,210.2 313.8,198.6 323.0,205.7 332.2,197.8 341.4,194.6 350.6,180.3 359.8,165.8 369.0,168.2 378.2,178.0 387.4,175.0 396.6,167.9 405.8,170.3 415.0,168.5 424.2,175.5 433.4,164.1 442.6,134.8 451.8,162.7 461.0,144.9 470.2,136.4 479.4,123.8 488.6,144.1 497.8,137.9 507.0,134.6 516.2,124.7 525.4,118.7 534.6,95.2 543.8,94.6 553.0,89.1 562.2,116.2 571.4,110.9" style="stroke:#0b1a2e;stroke-width:5;stroke-opacity:.55"/>
+<polyline class="ln" pathLength="100" points="28.6,241.3 37.8,215.8 47.0,226.3 56.2,214.9 65.4,218.7 74.6,231.9 83.8,240.5 93.0,207.3 102.2,236.8 111.4,223.4 120.6,227.7 129.8,228.8 139.0,211.6 148.2,202.0 157.4,227.9 166.6,212.2 175.8,224.5 185.0,213.9 194.2,218.8 203.4,226.1 212.6,225.0 221.8,221.9 231.0,194.4 240.2,208.1 249.4,216.9 258.6,189.5 267.8,184.3 277.0,202.9 286.2,212.5 295.4,208.5 304.6,210.2 313.8,198.6 323.0,205.7 332.2,197.8 341.4,194.6 350.6,180.3 359.8,165.8 369.0,168.2 378.2,178.0 387.4,175.0 396.6,167.9 405.8,170.3 415.0,168.5 424.2,175.5 433.4,164.1 442.6,134.8 451.8,162.7 461.0,144.9 470.2,136.4 479.4,123.8 488.6,144.1 497.8,137.9 507.0,134.6 516.2,124.7 525.4,118.7 534.6,95.2 543.8,94.6 553.0,89.1 562.2,116.2 571.4,110.9"/>
+<circle class="k" cx="90" cy="285" r="3" fill="#5eead4" style="animation-delay:0.0s"/>
+<circle class="k" cx="200" cy="285" r="3" fill="#5eead4" style="animation-delay:0.3s"/>
+<circle class="k" cx="310" cy="285" r="3" fill="#5eead4" style="animation-delay:0.6s"/>
+<circle class="k" cx="420" cy="285" r="3" fill="#5eead4" style="animation-delay:0.9s"/>
+<circle class="k" cx="530" cy="285" r="3" fill="#5eead4" style="animation-delay:1.2s"/>
+<path d="M90,285 H530" stroke="#14b8a6" stroke-opacity=".35" stroke-dasharray="3 5"/>
+<text x="24" y="38" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20" font-weight="700" fill="#f1f5f9">climate-kernel-emulator</text>
+<text x="24" y="60" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#5eead4">interpretable nonlocal kernels · ClimateBench protocol</text>
+<text x="576" y="308" text-anchor="end" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#64748b">stylized warming stripes (illustrative)</text>
+</g></svg>

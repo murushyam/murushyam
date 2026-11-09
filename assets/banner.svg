@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="M.S. Shyam Sunder - ML for Weather, Climate, Wildfire">
+<title>M.S. Shyam Sunder — ML for Weather · Climate · Wildfire</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1a2e"/><stop offset="1" stop-color="#10294a"/></linearGradient>
+<linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#14b8a6" stop-opacity="0"/><stop offset=".5" stop-color="#5eead4"/><stop offset="1" stop-color="#14b8a6" stop-opacity="0"/></linearGradient>
+<linearGradient id="jet" x1="0" x2="1"><stop offset="0" stop-color="#fbbf24"/><stop offset="1" stop-color="#f97316"/></linearGradient>
+<radialGradient id="globe" cx=".38" cy=".35" r=".75"><stop offset="0" stop-color="#1e5a7a"/><stop offset=".7" stop-color="#0f3554"/><stop offset="1" stop-color="#081a2c"/></radialGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#14b8a6" stop-opacity=".35"/><stop offset="1" stop-color="#14b8a6" stop-opacity="0"/></radialGradient>
+<clipPath id="card"><rect width="1200" height="260" rx="18"/></clipPath>
+<clipPath id="gc"><circle cx="1010" cy="130" r="92"/></clipPath>
+</defs>
+<style>
+.st{fill:none;stroke:url(#ln);stroke-width:1.6;stroke-linecap:round;stroke-dasharray:140 520;animation:flow 7s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-660}}
+.mer{fill:none;stroke:#5eead4;stroke-opacity:.35;stroke-width:1}
+.jet{fill:none;stroke:url(#jet);stroke-width:2.4;stroke-linecap:round;stroke-dasharray:60 240;animation:jf 3.2s linear infinite}
+@keyframes jf{to{stroke-dashoffset:-300}}
+.tw{animation:tw 3s ease-in-out infinite}
+@keyframes tw{0%,100%{opacity:.15}50%{opacity:.9}}
+.fade{animation:fi 1.6s ease-out both}
+.fade2{animation:fi 1.6s .5s ease-out both}
+@keyframes fi{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#card)">
+<rect width="1200" height="260" fill="url(#bg)"/>
+<circle class="tw" cx="392" cy="45" r="1.1" fill="#cbd5e1" style="animation-delay:0.2s"/>
+<circle class="tw" cx="642" cy="97" r="0.6" fill="#cbd5e1" style="animation-delay:1.5s"/>
+<circle class="tw" cx="54" cy="114" r="0.7" fill="#cbd5e1" style="animation-delay:0.3s"/>
+<circle class="tw" cx="511" cy="210" r="0.7" fill="#cbd5e1" style="animation-delay:0.7s"/>
+<circle class="tw" cx="750" cy="239" r="1.1" fill="#cbd5e1" style="animation-delay:1.2s"/>
+<circle class="tw" cx="1162" cy="19" r="1.3" fill="#cbd5e1" style="animation-delay:0.9s"/>
+<circle class="tw" cx="180" cy="37" r="0.8" fill="#cbd5e1" style="animation-delay:2.4s"/>
+<circle class="tw" cx="223" cy="150" r="1.1" fill="#cbd5e1" style="animation-delay:1.1s"/>
+<circle class="tw" cx="656" cy="23" r="0.6" fill="#cbd5e1" style="animation-delay:0.6s"/>
+<circle class="tw" cx="813" cy="112" r="0.9" fill="#cbd5e1" style="animation-delay:1.8s"/>
+<circle class="tw" cx="545" cy="81" r="1.2" fill="#cbd5e1" style="animation-delay:2.1s"/>
+<circle class="tw" cx="298" cy="148" r="1.0" fill="#cbd5e1" style="animation-delay:2.6s"/>
+<circle class="tw" cx="871" cy="78" r="1.4" fill="#cbd5e1" style="animation-delay:0.4s"/>
+<circle class="tw" cx="503" cy="193" r="0.7" fill="#cbd5e1" style="animation-delay:1.5s"/>
+<circle class="tw" cx="56" cy="171" r="1.2" fill="#cbd5e1" style="animation-delay:1.7s"/>
+<circle class="tw" cx="1043" cy="85" r="1.2" fill="#cbd5e1" style="animation-delay:1.8s"/>
+<circle class="tw" cx="694" cy="119" r="1.3" fill="#cbd5e1" style="animation-delay:2.8s"/>
+<circle class="tw" cx="569" cy="170" r="0.6" fill="#cbd5e1" style="animation-delay:2.1s"/>
+<circle class="tw" cx="774" cy="250" r="1.3" fill="#cbd5e1" style="animation-delay:0.9s"/>
+<circle class="tw" cx="465" cy="171" r="0.6" fill="#cbd5e1" style="animation-delay:1.4s"/>
+<circle class="tw" cx="208" cy="37" r="0.6" fill="#cbd5e1" style="animation-delay:2.3s"/>
+<circle class="tw" cx="163" cy="68" r="0.9" fill="#cbd5e1" style="animation-delay:2.6s"/>
+<circle class="tw" cx="105" cy="118" r="1.0" fill="#cbd5e1" style="animation-delay:2.7s"/>
+<circle class="tw" cx="977" cy="219" r="0.8" fill="#cbd5e1" style="animation-delay:1.2s"/>
+<circle class="tw" cx="433" cy="224" r="1.4" fill="#cbd5e1" style="animation-delay:0.5s"/>
+<circle class="tw" cx="218" cy="65" r="0.8" fill="#cbd5e1" style="animation-delay:1.5s"/>
+<circle class="tw" cx="705" cy="72" r="0.6" fill="#cbd5e1" style="animation-delay:1.3s"/>
+<circle class="tw" cx="446" cy="146" r="1.4" fill="#cbd5e1" style="animation-delay:2.1s"/>
+<circle class="tw" cx="618" cy="159" r="1.1" fill="#cbd5e1" style="animation-delay:0.2s"/>
+<circle class="tw" cx="1071" cy="198" r="1.3" fill="#cbd5e1" style="animation-delay:2.4s"/>
+<circle class="tw" cx="473" cy="105" r="0.7" fill="#cbd5e1" style="animation-delay:1.9s"/>
+<circle class="tw" cx="83" cy="24" r="0.8" fill="#cbd5e1" style="animation-delay:0.5s"/>
+<circle class="tw" cx="411" cy="21" r="0.6" fill="#cbd5e1" style="animation-delay:0.5s"/>
+<circle class="tw" cx="130" cy="97" r="0.6" fill="#cbd5e1" style="animation-delay:2.6s"/>
+<circle class="tw" cx="735" cy="44" r="0.8" fill="#cbd5e1" style="animation-delay:1.0s"/>
+<circle class="tw" cx="440" cy="38" r="1.3" fill="#cbd5e1" style="animation-delay:3.0s"/>
+<circle class="tw" cx="560" cy="126" r="0.7" fill="#cbd5e1" style="animation-delay:0.3s"/>
+<circle class="tw" cx="414" cy="73" r="1.3" fill="#cbd5e1" style="animation-delay:0.5s"/>
+<circle class="tw" cx="37" cy="240" r="1.0" fill="#cbd5e1" style="animation-delay:0.4s"/>
+<circle class="tw" cx="651" cy="15" r="1.0" fill="#cbd5e1" style="animation-delay:2.9s"/>
+<polyline class="st" points="-20,17.0 20,14.6 60,13.5 100,13.6 140,15.1 180,17.8 220,21.5 260,25.9 300,30.6 340,35.3 380,39.5 420,43.0 460,45.4 500,46.5 540,46.4 580,44.9 620,42.2 660,38.5 700,34.1 740,29.4 780,24.7 820,20.5 860,17.0 900,14.6 940,13.5 980,13.6 1020,15.2 1060,17.9 1100,21.6 1140,25.9 1180,30.7 1220,35.3" style="animation-delay:-1.8s;animation-duration:6.5s"/>
+<polyline class="st" points="-20,45.6 20,45.3 60,45.9 100,47.2 140,49.1 180,51.5 220,54.2 260,57.0 300,59.6 340,61.8 380,63.4 420,64.4 460,64.7 500,64.1 540,62.8 580,60.9 620,58.4 660,55.8 700,53.0 740,50.4 780,48.2 820,46.5 860,45.6 900,45.3 940,45.9 980,47.2 1020,49.2 1060,51.6 1100,54.3 1140,57.0 1180,59.6 1220,61.8" style="animation-delay:-3.7s;animation-duration:8.1s"/>
+<polyline class="st" points="-20,90.5 20,91.3 60,91.1 100,90.0 140,88.1 180,85.6 220,82.6 260,79.4 300,76.2 340,73.4 380,71.1 420,69.5 460,68.7 500,68.9 540,70.0 580,71.9 620,74.4 660,77.4 700,80.6 740,83.8 780,86.6 820,88.9 860,90.5 900,91.3 940,91.1 980,90.0 1020,88.1 1060,85.6 1100,82.6 1140,79.4 1180,76.2 1220,73.4" style="animation-delay:-5.7s;animation-duration:8.9s"/>
+<polyline class="st" points="-20,88.5 20,89.1 60,90.9 100,93.9 140,97.9 180,102.4 220,107.1 260,111.6 300,115.6 340,118.7 380,120.8 420,121.5 460,120.9 500,119.1 540,116.0 580,112.1 620,107.6 660,102.9 700,98.4 740,94.4 780,91.2 820,89.2 860,88.5 900,89.1 940,91.0 980,94.0 1020,97.9 1060,102.4 1100,107.1 1140,111.6 1180,115.6 1220,118.8" style="animation-delay:-5.7s;animation-duration:8.0s"/>
+<polyline class="st" points="-20,131.8 20,128.9 60,126.1 100,123.6 140,121.6 180,120.3 220,119.7 260,120.1 300,121.2 340,123.0 380,125.4 420,128.2 460,131.1 500,133.9 540,136.5 580,138.4 620,139.7 660,140.3 700,139.9 740,138.8 780,137.0 820,134.6 860,131.8 900,128.9 940,126.0 980,123.5 1020,121.5 1060,120.2 1100,119.7 1140,120.1 1180,121.2 1220,123.0" style="animation-delay:-2.5s;animation-duration:5.1s"/>
+<polyline class="st" points="-20,163.3 20,163.0 60,162.1 100,160.6 140,158.7 180,156.5 220,154.1 260,151.8 300,149.8 340,148.2 380,147.1 420,146.7 460,147.0 500,147.9 540,149.4 580,151.3 620,153.5 660,155.9 700,158.2 740,160.2 780,161.8 820,162.9 860,163.3 900,163.0 940,162.1 980,160.6 1020,158.7 1060,156.5 1100,154.1 1140,151.8 1180,149.8 1220,148.2" style="animation-delay:-1.8s;animation-duration:7.8s"/>
+<polyline class="st" points="-20,189.9 20,185.4 60,180.5 100,175.6 140,170.9 180,167.1 220,164.2 260,162.7 300,162.5 340,163.8 380,166.4 420,170.1 460,174.6 500,179.5 540,184.5 580,189.1 620,192.9 660,195.8 700,197.3 740,197.4 780,196.2 820,193.6 860,189.9 900,185.4 940,180.5 980,175.5 1020,170.9 1060,167.0 1100,164.2 1140,162.7 1180,162.6 1220,163.8" style="animation-delay:-6.6s;animation-duration:9.0s"/>
+<polyline class="st" points="-20,220.6 20,217.7 60,213.8 100,209.2 140,204.2 180,199.3 220,194.8 260,191.2 300,188.7 340,187.5 380,187.8 420,189.4 460,192.3 500,196.2 540,200.9 580,205.8 620,210.7 660,215.2 700,218.8 740,221.3 780,222.5 820,222.2 860,220.6 900,217.7 940,213.8 980,209.1 1020,204.1 1060,199.2 1100,194.8 1140,191.2 1180,188.7 1220,187.5" style="animation-delay:-1.5s;animation-duration:5.9s"/>
+<polyline class="st" points="-20,238.8 20,239.8 60,239.9 100,239.3 140,237.9 180,235.9 220,233.4 260,230.6 300,227.8 340,225.1 380,222.9 420,221.2 460,220.2 500,220.1 540,220.7 580,222.1 620,224.1 660,226.7 700,229.4 740,232.3 780,234.9 820,237.2 860,238.8 900,239.8 940,239.9 980,239.3 1020,237.9 1060,235.8 1100,233.3 1140,230.6 1180,227.7 1220,225.1" style="animation-delay:-4.4s;animation-duration:8.6s"/>
+<circle cx="1010" cy="130" r="125" fill="url(#glow)"/>
+<circle cx="1010" cy="130" r="92" fill="url(#globe)" stroke="#5eead4" stroke-opacity=".5"/>
+<g clip-path="url(#gc)">
+<ellipse class="mer" cx="1010" cy="209.7" rx="46.0" ry="5.5"/>
+<ellipse class="mer" cx="1010" cy="176.0" rx="79.7" ry="9.6"/>
+<ellipse class="mer" cx="1010" cy="130.0" rx="92.0" ry="11.0"/>
+<ellipse class="mer" cx="1010" cy="84.0" rx="79.7" ry="9.6"/>
+<ellipse class="mer" cx="1010" cy="50.3" rx="46.0" ry="5.5"/>
+<ellipse class="mer" cx="1010" cy="130" rx="92" ry="92"><animate attributeName="rx" values="92;0;92" keyTimes="0;.5;1" dur="6s" begin="-0.0s" repeatCount="indefinite"/></ellipse>
+<ellipse class="mer" cx="1010" cy="130" rx="92" ry="92"><animate attributeName="rx" values="92;0;92" keyTimes="0;.5;1" dur="6s" begin="-1.0s" repeatCount="indefinite"/></ellipse>
+<ellipse class="mer" cx="1010" cy="130" rx="92" ry="92"><animate attributeName="rx" values="92;0;92" keyTimes="0;.5;1" dur="6s" begin="-2.0s" repeatCount="indefinite"/></ellipse>
+<ellipse class="mer" cx="1010" cy="130" rx="92" ry="92"><animate attributeName="rx" values="92;0;92" keyTimes="0;.5;1" dur="6s" begin="-3.0s" repeatCount="indefinite"/></ellipse>
+<ellipse class="mer" cx="1010" cy="130" rx="92" ry="92"><animate attributeName="rx" values="92;0;92" keyTimes="0;.5;1" dur="6s" begin="-4.0s" repeatCount="indefinite"/></ellipse>
+<ellipse class="mer" cx="1010" cy="130" rx="92" ry="92"><animate attributeName="rx" values="92;0;92" keyTimes="0;.5;1" dur="6s" begin="-5.0s" repeatCount="indefinite"/></ellipse>
+<polyline class="jet" points="915,83.3 920,86.1 925,88.8 930,91.2 935,93.1 940,94.4 945,95.0 950,94.8 955,93.8 960,92.2 965,90.1 970,87.5 975,84.7 980,82.0 985,79.5 990,77.4 995,75.9 1000,75.1 1005,75.1 1010,75.8 1015,77.2 1020,79.2 1025,81.7 1030,84.4 1035,87.2 1040,89.7 1045,92.0 1050,93.7 1055,94.7 1060,95.0 1065,94.5 1070,93.3 1075,91.5 1080,89.1 1085,86.5 1090,83.7 1095,81.0 1100,78.7 1105,76.8" style="animation-delay:0s"/>
+<polyline class="jet" points="915,181.7 920,183.1 925,183.9 930,184.0 935,183.4 940,182.2 945,180.4 950,178.2 955,175.8 960,173.3 965,170.9 970,168.9 975,167.3 980,166.3 985,166.0 990,166.4 995,167.4 1000,169.0 1005,171.1 1010,173.5 1015,175.9 1020,178.4 1025,180.5 1030,182.3 1035,183.4 1040,184.0 1045,183.8 1050,183.0 1055,181.5 1060,179.6 1065,177.3 1070,174.8 1075,172.4 1080,170.1 1085,168.2 1090,166.9 1095,166.1 1100,166.1 1105,166.7" style="animation-delay:-1.4s"/>
+</g>
+<g class="fade"><text x="70" y="118" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="52" font-weight="700" fill="#f1f5f9" letter-spacing=".5">M.S. Shyam Sunder</text></g>
+<g class="fade2"><text x="72" y="164" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="24" fill="#5eead4" letter-spacing="1">ML for Weather <tspan fill="#f97316">·</tspan> Climate <tspan fill="#f97316">·</tspan> Wildfire</text>
+<rect x="72" y="184" width="0" height="3" rx="1.5" fill="#f97316"><animate attributeName="width" from="0" to="240" dur="1.4s" begin=".6s" fill="freeze"/></rect>
+<text x="72" y="216" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#94a3b8">Earth &amp; Atmospheric Sciences · NIT Rourkela</text></g>
+</g>
+</svg>

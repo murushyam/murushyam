@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="36" viewBox="0 0 1200 36" role="img" aria-label="divider"><title>divider</title><defs>
+<linearGradient id="d" x1="0" x2="1"><stop offset="0" stop-color="#14b8a6" stop-opacity="0"/><stop offset=".25" stop-color="#14b8a6"/><stop offset=".75" stop-color="#f97316"/><stop offset="1" stop-color="#f97316" stop-opacity="0"/></linearGradient>
+<mask id="wm" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="36"><path class="w" d="M0,18 Q60,11 120,18 T240,18 Q300,11 360,18 T480,18 Q540,11 600,18 T720,18 Q780,11 840,18 T960,18 Q1020,11 1080,18 T1200,18 Q1260,11 1320,18 T1440,18" fill="none" stroke="#fff" stroke-opacity="1" stroke-width="2.4" stroke-linecap="round"/><path class="w w2" d="M0,18 Q60,13 120,18 T240,18 Q300,13 360,18 T480,18 Q540,13 600,18 T720,18 Q780,13 840,18 T960,18 Q1020,13 1080,18 T1200,18 Q1260,13 1320,18 T1440,18" fill="none" stroke="#fff" stroke-opacity="0.5" stroke-width="1.4" stroke-linecap="round"/></mask></defs>
+<style>.w{animation:mv 6s linear infinite}@keyframes mv{to{transform:translateX(-240px)}}.w2{animation-duration:9s}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect width="1200" height="36" fill="url(#d)" mask="url(#wm)"/>
+</svg>
